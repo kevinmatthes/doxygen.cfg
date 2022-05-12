@@ -229,8 +229,6 @@ references:
     repository-artifact: https://github.com/kevinmatthes/blank
     title: blank
     url: https://github.com/kevinmatthes/blank
-
-################################################################################
   - type: software
     date-released: 2022-05-12
     version: 0.4
@@ -242,3 +240,5 @@ references:
     repository-code: https://github.com/kevinmatthes/cffreference
     title: cffreference
     url: https://github.com/kevinmatthes/cffreference
+
+################################################################################
