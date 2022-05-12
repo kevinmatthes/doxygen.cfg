@@ -49,6 +49,18 @@ repository-code: https://github.com/kevinmatthes/doxygen.cfg
 title: doxygen.cfg
 url: https://github.com/doxygen.cfg
 
+# Preferred citation.
+preferred-citation:
+  abstract: A set of Doxygen setting templates.
+  authors:
+    - family-names: Matthes
+      given-names: Kevin
+  license: GPL-2.0
+  repository-code: https://github.com/kevinmatthes/doxygen.cfg
+  title: doxygen.cfg
+  type: software-code
+  url: https://github.com/doxygen.cfg
+
 # References.
 references:
   - type: standard
