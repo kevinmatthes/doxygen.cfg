@@ -50,6 +50,10 @@
 * create repository README
 * create this changelog
 * create this repository
+* Doxygen template:  C
+* Doxygen template:  C++
+* Doxygen template:  default
+* Doxygen template:  Fortran
 * submodule `blank`
 * submodule `docs-snippets`
 
