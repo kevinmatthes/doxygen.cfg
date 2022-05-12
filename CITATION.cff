@@ -37,7 +37,7 @@ message: Please cite this software using these meta data.
 
 # Version information.
 date-released: 2022-05-12
-version: 0.0.0
+version: 0.0.1
 
 # Project information.
 abstract: A set of Doxygen setting templates.
