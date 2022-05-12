@@ -44,6 +44,8 @@
 
 ## [Unreleased]
 
+## [0.0.2] -- 2022-05-12
+
 ### Changed
 
 * update Doxygen C template to work with version 1.9.1
