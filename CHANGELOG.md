@@ -44,6 +44,13 @@
 
 ## [Unreleased]
 
+### Changed
+
+* update Doxygen C template to work with version 1.9.1
+* update Doxygen C++ template to work with version 1.9.1
+* update Doxygen default template to work with version 1.9.1
+* update Doxygen Fortran template to work with version 1.9.1
+
 ## [0.0.1] -- 2022-05-12
 
 ### Added
