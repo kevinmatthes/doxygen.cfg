@@ -44,6 +44,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+* repository type in `CITATION.cff`
+
 ## [0.0.2] -- 2022-05-12
 
 ### Changed
