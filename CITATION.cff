@@ -45,7 +45,7 @@ authors:
   - family-names: Matthes
     given-names: Kevin
 license: GPL-2.0
-repository-code: https://github.com/kevinmatthes/doxygen.cfg
+repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
 title: doxygen.cfg
 url: https://github.com/doxygen.cfg
 
@@ -57,7 +57,7 @@ preferred-citation:
       given-names: Kevin
   date-released: 2022-05-12
   license: GPL-2.0
-  repository-code: https://github.com/kevinmatthes/doxygen.cfg
+  repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
   title: doxygen.cfg
   type: software-code
   url: https://github.com/doxygen.cfg
