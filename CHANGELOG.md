@@ -51,6 +51,7 @@
 ### Changed
 
 * update `blank`
+* update project meta data
 
 ### Fixed
 
