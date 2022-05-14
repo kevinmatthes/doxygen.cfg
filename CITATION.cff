@@ -36,8 +36,8 @@ cff-version: 1.2.0
 message: Please cite this software using these meta data.
 
 # Version information.
-date-released: 2022-05-12
-version: 0.0.2
+date-released: 2022-05-14
+version: 0.0.3
 
 # Project information.
 abstract: A set of Doxygen setting templates.
@@ -55,13 +55,13 @@ preferred-citation:
   authors:
     - family-names: Matthes
       given-names: Kevin
-  date-released: 2022-05-12
+  date-released: 2022-05-14
   license: GPL-2.0
   repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
   title: doxygen.cfg
   type: software-code
   url: https://github.com/doxygen.cfg
-  version: 0.0.2
+  version: 0.0.3
 
 # References.
 references:
