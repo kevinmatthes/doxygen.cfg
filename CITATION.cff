@@ -47,7 +47,7 @@ authors:
 license: GPL-2.0
 repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
 title: doxygen.cfg
-url: https://github.com/doxygen.cfg
+url: https://github.com/kevinmatthes/doxygen.cfg
 
 # Preferred citation.
 preferred-citation:
@@ -60,7 +60,7 @@ preferred-citation:
   repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
   title: doxygen.cfg
   type: software-code
-  url: https://github.com/doxygen.cfg
+  url: https://github.com/kevinmatthes/doxygen.cfg
   version: 0.0.3
 
 # References.
