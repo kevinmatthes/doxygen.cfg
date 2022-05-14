@@ -44,6 +44,8 @@
 
 ## [Unreleased]
 
+## [0.0.3] -- 2022-05-14
+
 ### Added
 
 * GitHub Action:  automatic CFF validation
