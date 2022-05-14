@@ -44,6 +44,10 @@
 
 ## [Unreleased]
 
+### Added
+
+* GitHub Action:  automatic CFF validation
+
 ### Changed
 
 * update `blank`
