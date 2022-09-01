@@ -36,8 +36,8 @@ cff-version: 1.2.0
 message: Please cite this software using these meta data.
 
 # Version information.
-date-released: 2022-05-14
-version: 0.0.3
+date-released: 2022-09-01
+version: 0.1.0
 
 # Project information.
 abstract: A set of Doxygen setting templates.
